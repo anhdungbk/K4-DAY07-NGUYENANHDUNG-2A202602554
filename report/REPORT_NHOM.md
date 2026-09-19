@@ -1,6 +1,6 @@
 # Báo Cáo Nhóm — Lab 7: Embedding & Vector Store
 
-**Nhóm:** Học bổng HUST
+**Nhóm:** G09
 **Thành viên:** Trần Nguyễn Tiến Đức (2A202602871), Lê Nguyễn Quốc Bảo (2A202603011), Hoàng Anh Tài (2A202602612), Nguyễn Anh Dũng (2A202602554)
 **Ngày:** 2026-09-19
 
