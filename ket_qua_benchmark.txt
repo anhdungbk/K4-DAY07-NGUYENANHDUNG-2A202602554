@@ -1,0 +1,47 @@
+Đã nạp 30 chunks từ data/hocbong.
+Chunker: RecursiveChunker
+
+Câu 1: Hạn cuối nộp hồ sơ học bổng Trần Đại Nghĩa là khi nào?
+Filter: {'audience': 'student'}
+  1. score=0.185 doc_id=hust-kkht-results-2025-2
+     89 sinh viên được học bổng loại KHÁ (loại C) Danh sách sinh viên được học bổng xem TẠI ĐÂY Nhà trường sẽ làm thủ tục chuyển tiền học bổng qua tài khoản Ngân hàng, tài khoản Viettel
+  2. score=0.178 doc_id=hust-mb-chasing-2025
+     🛫 Ưu tiên tuyển dụng các chương trình dành cho Fresher: MB Young Talent, MB Chasing, MB Trainee. ------------------------------------------ 📩 Đăng ký Học bổng The Best of MB Chasin
+  3. score=0.160 doc_id=hust-lg-scholarship-2025
+     Song song cùng hoạt động kinh doanh, với quan niệm con người là tài sản quý giá nhất, LGEVH không ngừng xây dựng và đổi mới các hoạt động văn hóa, đào tạo nhằm đem đến môi trường l
+
+Câu 2: Học bổng MB The Best of MB Chasing có giá trị bao nhiêu?
+Filter: không dùng
+  1. score=0.265 doc_id=hust-mb-chasing-2025
+     🏫 Ưu tiên: Tham gia các chương trình: MB Fast Track 2025: Vào nghề siêu tốc, MB Chasing, MB Trainee, đang là RM Tập sự, Thực tập sinh, Đại sứ Thanh niên Triển vọng của MB. 💌 Đảm bả
+  2. score=0.206 doc_id=hust-tran-dai-nghia-2026-1
+     3. Hồ sơ đăng ký xét học bổng gồm: 1. Sinh viên thuộc Nhóm 1 và Nhóm 2 hồ sơ gồm có: a) Đơn đăng ký xét, cấp Học bổng Trần Đại Nghĩa (theo mẫu và có xác nhận của địa phương nơi gia
+  3. score=0.194 doc_id=hust-mb-chasing-2025
+     # Học bổng MB The Best of MB Chasing 2025 HỌC BỔNG MB THE BEST OF MB CHASING 2025 📩 Đăng ký Học bổng The Best of MB Chasing 2025 tại: https://forms.gle/1DwxLDFqGjA8cUkQ9 💌 Tiếp nối
+
+Câu 3: Thời hạn gửi thắc mắc về kết quả xét học bổng kỳ 2025.2 là khi nào?
+Filter: không dùng
+  1. score=0.288 doc_id=hust-lg-scholarship-2025
+     CÁC VỊ TRÍ FULL TIME Vị trí tuyển dụng: Nhân viên Nghiên cứu & Phát triển (R&D): Phát triển sản phẩm mới và đưa vào sản xuất Tiến hành các hoạt động đổi mới chi phí Hỗ trợ giải quy
+  2. score=0.279 doc_id=hust-tran-dai-nghia-2026-1
+     - Kết quả xét học bổng được công bố cùng vào tuần 10 của học kỳ 2026.1./.
+  3. score=0.268 doc_id=hust-lg-scholarship-2025
+     # Chương trình tham quan tuyển dụng và học bổng LG Electronics VN Hải Phòng 2025 Chương trình tham quan tuyển dụng và học bổng của công ty LG Electronics VN Hải Phòng 2025 Thời gia
+
+Câu 4: Có bao nhiêu sinh viên nhận học bổng khuyến khích học tập loại A?
+Filter: không dùng
+  1. score=0.254 doc_id=hust-lg-scholarship-2025
+     CÁC VỊ TRÍ FULL TIME Vị trí tuyển dụng: Nhân viên Nghiên cứu & Phát triển (R&D): Phát triển sản phẩm mới và đưa vào sản xuất Tiến hành các hoạt động đổi mới chi phí Hỗ trợ giải quy
+  2. score=0.234 doc_id=hust-tran-dai-nghia-2026-1
+     a) Đơn đăng ký xét, cấp Học bổng Trần Đại Nghĩa (theo mẫu Tại đây và không cần xác nhận của địa phương nơi gia đình sinh viên cư trú); b) Hồ sơ minh chứng sinh viên gặp các tai nạn
+  3. score=0.230 doc_id=hust-mb-chasing-2025
+     🏫 Ưu tiên: Tham gia các chương trình: MB Fast Track 2025: Vào nghề siêu tốc, MB Chasing, MB Trainee, đang là RM Tập sự, Thực tập sinh, Đại sứ Thanh niên Triển vọng của MB. 💌 Đảm bả
+
+Câu 5: Biểu mẫu đề nghị điều chỉnh điểm dành cho đối tượng nào?
+Filter: {'audience': 'faculty'}
+  1. score=0.067 doc_id=hust-grade-adjustment-faculty
+     # Biểu mẫu đề nghị điều chỉnh điểm dành cho giảng viên ## Biểu mẫu về học tập Mẫu đơn đề nghị điều chỉnh điểm dành cho giảng viên.
+
+A/B metadata filter (cùng một câu hỏi):
+  không filter: ['hust-kkht-results-2025-2', 'hust-mb-chasing-2025', 'hust-lg-scholarship-2025']
+  audience=student: ['hust-kkht-results-2025-2', 'hust-mb-chasing-2025', 'hust-lg-scholarship-2025']
